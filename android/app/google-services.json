@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "432796602322",
+    "firebase_url": "https://driversapp-11f15-default-rtdb.firebaseio.com",
+    "project_id": "driversapp-11f15",
+    "storage_bucket": "driversapp-11f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432796602322:android:90c9a0fa3297e2327f020b",
+        "android_client_info": {
+          "package_name": "com.example.drivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC95cqfl3NywFYySwx_Gi720irvnOe34U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432796602322:android:07c4d92888fc2ccd7f020b",
+        "android_client_info": {
+          "package_name": "com.example.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC95cqfl3NywFYySwx_Gi720irvnOe34U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
